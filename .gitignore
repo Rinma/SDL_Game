@@ -116,6 +116,7 @@ UpgradeLog*.XML
 
 # Projekt Files
 *.vcxproj*
+*.sln
 
 ############
 ## Windows

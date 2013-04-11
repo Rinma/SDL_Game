@@ -1,11 +1,8 @@
 #include "Framework.h"
 
-
-CFramework::CFramework(void)
+//init
+//Aufgabe: Framework initialisieren
+bool CFramework::Init(int ScreenWidth, int ScreenHeight, int ColorDepth, bool Fullscreen)
 {
-}
 
-
-CFramework::~CFramework(void)
-{
 }
